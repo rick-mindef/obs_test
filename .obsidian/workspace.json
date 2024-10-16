@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,11 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21ddade2d45a4fa3",
+  "active": "14b7f675f12e56dd",
   "lastOpenFiles": [
-    "obs_test",
     "2024-10-16.md",
     "Untitled.canvas",
-    "Welcome.md"
+    "Welcome.md",
+    "obs_test"
   ]
 }
